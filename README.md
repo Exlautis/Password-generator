@@ -9,3 +9,6 @@ Link to deployed app: https://exlautis.github.io/Password-generator/
 Html
 Css
 Javascript
+
+## Images 
+<img src=images/Working-img.png>
